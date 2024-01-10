@@ -1,0 +1,14 @@
+#container {
+  position: relative;
+  height: 90vh;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
